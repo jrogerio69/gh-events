@@ -8,6 +8,7 @@ import MainContent from "./MainContent";
 // Add yet another comment
 // To see if the user jrogerio69 is doing the commit command
 // Change the global user.name and user.email to jrogerio69
+// skip the action
 
 describe("MainContent", () => {
   it("should render a button", () => {
