@@ -6,6 +6,7 @@ import MainContent from "./MainContent";
 
 // My tests
 // Add yet another comment
+// To see if the user jrogerio69 is doing the commit command
 
 describe("MainContent", () => {
   it("should render a button", () => {
